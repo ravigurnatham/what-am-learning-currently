@@ -1,0 +1,1 @@
+from a while, wanted to watch andrej karpathy playlisy, currently going through them, 
